@@ -38,6 +38,8 @@ This is a Python-based implementation of the classic game "Rock, Paper, Scissors
    ```bash
    git clone https://github.com/yourusername/aygaz-python-bootcamp.git
 2. Navigate to the project directory:
+   ```python
    cd aygaz-python-bootcamp
 3. Run the game:
+   ```bash
    python3 tas_kagit_makas_Yasemin_Sungur.py
