@@ -17,8 +17,6 @@ def rps(player,computer):
     return "Draw!"    
 
 
-import random
-
 # Function to display game results
 def display_results(player_choice, computer_choice, result, score, round_number,game_count):
     print("\n" + "="*40)
